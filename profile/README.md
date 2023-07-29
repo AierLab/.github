@@ -6,7 +6,7 @@
 
 <!-- ![AierLab Logo](https://url-to-your-image.jpg) -->
 
-We are changing the world.
+Making AI safe and friendly for everyone.
 
 ## 🎯 Our Vision
 
