@@ -36,4 +36,4 @@ We are proud to be sponsored by Amazon. This support enables us to push forward 
 
 ## 📬 Contact
 
-For more information, please contact us at `yanghaobo@aierlab.com`.
+For more information, please contact us at `hobart.yang@qq.com`.
