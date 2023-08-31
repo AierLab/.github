@@ -34,6 +34,12 @@ Our team is actively working on several innovative projects:
 
 We are proud to be sponsored by Amazon. This support enables us to push forward with our groundbreaking research and development.
 
+## 🌐 Join Our Discord Community
+
+We're excited to announce our new Discord community! Engage in daily conversations, get answers to your questions, and manage projects in a way that GitHub might not offer. Everyone's welcome!
+
+🔗 [Join our Discord server here!](https://discord.gg/hmHknvvU)
+
 ## 📬 Contact
 
 For more information, please contact us at `hobart.yang@qq.com`.
