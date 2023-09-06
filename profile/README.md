@@ -3,6 +3,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/aierlab?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/aierlab?label=Stars)
 ![Sponsored by Amazon](https://img.shields.io/badge/Sponsored%20by-Amazon-orange)
+[![Join our Discord AIerLab](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/pjhf5TqH)
+
 
 <!-- ![AierLab Logo](https://url-to-your-image.jpg) -->
 
