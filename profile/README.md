@@ -40,7 +40,7 @@ We are proud to be sponsored by Amazon. This support enables us to push forward 
 
 We're excited to announce our new Discord community! Engage in daily conversations, get answers to your questions, and manage projects in a way that GitHub might not offer. Everyone's welcome!
 
-🔗 [Join our Discord server here!](https://discord.gg/hmHknvvU)
+🔗 [Join our Discord server here!](https://discord.gg/UrvJysas)
 
 ## 📬 Contact
 
