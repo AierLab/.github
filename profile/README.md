@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/aierlab?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/aierlab?label=Stars)
 ![Sponsored by Amazon](https://img.shields.io/badge/Sponsored%20by-Amazon-orange)
-[![Join our Discord AIerLab](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/pjhf5TqH)
+[![Join our Discord AIerLab](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/nn5NDXMgae)
 
 
 <!-- ![AierLab Logo](https://url-to-your-image.jpg) -->
@@ -34,13 +34,13 @@ Our team is actively working on several innovative projects:
 
 ## 🤝 Sponsorship
 
-We are proud to be sponsored by Amazon. This support enables us to push forward with our groundbreaking research and development.
+We are proud to be sponsored by Amazon (2023 period). This support enables us to push forward with our groundbreaking research and development.
 
 ## 🌐 Join Our Discord Community
 
 We're excited to announce our new Discord community! Engage in daily conversations, get answers to your questions, and manage projects in a way that GitHub might not offer. Everyone's welcome!
 
-🔗 [Join our Discord server here!](https://discord.gg/UrvJysas)
+🔗 [Join our Discord server here!](https://discord.gg/nn5NDXMgae)
 
 ## 📬 Contact
 
