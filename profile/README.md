@@ -8,7 +8,8 @@
 
 <!-- ![AierLab Logo](https://url-to-your-image.jpg) -->
 
-Making AI safe and friendly for everyone.
+Help AI adapt to human society.
+
 
 ## 🎯 Our Vision
 
