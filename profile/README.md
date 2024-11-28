@@ -1,5 +1,6 @@
 ![](https://github.com/AierLab/aierlab.github.io/blob/main/img/intro-bg.jpg?raw=true)
 
+[![Official site](https://img.shields.io/badge/official%20site-aierlab.tech-green.svg)](https://discord.gg/nn5NDXMgae)
 ![GitHub followers](https://img.shields.io/github/followers/aierlab?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/aierlab?label=Stars)
 ![Sponsored by Amazon](https://img.shields.io/badge/Sponsored%20by-Amazon-orange)
